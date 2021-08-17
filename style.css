@@ -46,27 +46,10 @@ body {
 .to-dos {
   margin-top: 25px;
 }
-
 .paragraph-styling {
   margin: 0;
   cursor: pointer;
   font-size: 20px;
-}
-form button {
-  padding: 0.5rem;
-  font-size: 2rem;
-  border: none;
-  background: white;
-}
-form button {
-  color: #ff6f47;
-  background: #f7fffe;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-form button:hover {
-  background: #ff6f47;
-  color: white;
 }
 .todo-container {
   display: flex;
